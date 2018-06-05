@@ -1,0 +1,15 @@
+##############################################
+#NEO_TUSBCHANの設定ファイル
+##############################################
+MCServer:
+#ログインさせるサーバーのIPとポートを入力
+  IP: 
+  Port: 
+MCAccount:
+#botに使うマインクラフトのアカウントのIDとパスワードを入力
+  ID:
+  Pass:
+#Discordのbotキーを入力
+Discord_Key:
+#使用するDiscordのチャンネルIDを入力
+Discord_Channnel:
